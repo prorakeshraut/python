@@ -1,0 +1,7 @@
+cd python
+my name is rakeh
+cd python
+cls
+
+
+cd desktop
